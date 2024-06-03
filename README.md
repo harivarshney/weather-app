@@ -48,22 +48,7 @@ To get started with the Weather App, follow these steps:
 3. Click the "Search" button.
 4. The app will display the current temperature, wind speed, and humidity for the specified location.
 
-## File Structure
 
-```
-weather-app/
-├── index.html
-├── css/
-│   └── styles.css
-├── js/
-│   └── app.js
-└── README.md
-```
-
-- `index.html`: The main HTML file that contains the structure of the app.
-- `css/styles.css`: The CSS file for styling the app.
-- `js/app.js`: The JavaScript file that contains the logic for fetching and displaying weather data.
-- `README.md`: This file.
 
 ## API Integration
 
