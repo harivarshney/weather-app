@@ -78,5 +78,3 @@ Thank you for using the Weather App! If you have any questions or feedback, plea
 Happy coding! 🌤️
 
 ---
-
-Feel free to customize this README to better fit your specific project and needs.
