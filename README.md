@@ -5,6 +5,9 @@ Welcome to the Weather App! This application provides current weather informatio
 ## Screenshot
 ![Screenshot 2024-07-09 222432](https://github.com/harivarshney/weather-app/assets/152633609/4ff53c4a-c1bc-4c6e-a7d0-5e737a83b599)
 
+## Demo
+https://github.com/user-attachments/assets/e0097654-5444-4c56-8cd3-9a4629e9bb74
+
 ## Features
 
 - **Real-time Weather Data**: Get the current temperature, wind speed, and humidity for any location.
